@@ -1,0 +1,6 @@
+BASE_URL = 'https://stellarburgers.education-services.ru'
+LOGIN_URL = f'{BASE_URL}/login'
+REGISTER_URL = f'{BASE_URL}/register'
+PASSWORD_RECOVERY_URL = f'{BASE_URL}/forgot-password'
+MAIN_URL = f'{BASE_URL}/'
+ACCOUNT_URL = f'{BASE_URL}/account/profile'
